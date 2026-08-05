@@ -1,1 +1,2 @@
 # python_automation
+NOTES FOR LEARNING PYTHON AUTOMATION
