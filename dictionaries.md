@@ -1,0 +1,16 @@
+# Dictionary methods
+- len(): returns the length of a dictionary
+- another way to declare: thisdict = dict(name = "John", age = 36, country = "Norway")
+- get(): returns the value of the key passed
+- keys(): returns all the keys
+- values(): Returns a list of all the values in the dictionary
+- items(): returns all the keys and their associated values
+- update(): used for updating a dictionary by adding a pair of key and value or multiple keys and values
+- pop(): removes a item with a specific key
+- popitem(): removes the last entered item
+- del [keyword]: deletes a called value (ex: del thisdict["key"]), it can also delete the entire dictionary
+- clear(): deletes all the items in a dictionary
+- copy(): Returns a copy of the dictionary
+- fromkeys(): Returns a dictionary with the specified keys and value
+- setdefault(): Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
+- NESTED Dictionaries WORK!!! can be used as a JSON alternative
